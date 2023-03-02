@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Duarte Martínez Vizoso (a.k.a. DuarteCreates)
 
 <!--
 **duartemv00/duartemv00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
