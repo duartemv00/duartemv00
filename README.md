@@ -1,8 +1,8 @@
 ## My name is Duarte Martínez Vizoso (a.k.a. DuarteCreates)
 
 ### Videogame Projects
- - Don't Hurt Me [WIP] (2023)
- - Bob Game [WIP] (2023)
+ - Don't Hurt Me (WIP)
+ - Bob Game (WIP)
  - Moon Springs (2022)
 
 ### Animation Projects
