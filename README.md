@@ -1,4 +1,4 @@
-## My name is Duarte Martínez Vizoso (a.k.a. DuarteCreates)
+## My name is Duarte Martínez Vizoso and I'm a Gameplay Programmer
 
 ### Videogame Projects
 - Don't Hurt Me (WIP) - Anduma
