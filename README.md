@@ -1,6 +1,7 @@
 ## My name is Duarte Martínez Vizoso and I'm a Gameplay Programmer
 
 ### Videogame Projects
+- The Occultist (UE5.4) -> [Trailer](https://www.youtube.com/watch?v=cvD76zgljNY&t=1s)
 - Don't Hurt Me (UE5.3) -> [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
 - Moon Springs (UE5.1) -> [Itch.io](https://holychilligames.itch.io/moonsprings)
 - Huggy Toons (Unity) -> [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
