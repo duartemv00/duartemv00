@@ -10,7 +10,6 @@
 - CharMetricsComponent (UE5.4.1) (WIP) -> [GitHub](https://github.com/duartemv00/dmv_plugin_ue5.4.1_CharMetricsSystem)
 
 ### [Books and Media that I consume](https://github.com/duartemv00/Library)
-Currently reading Domain Driven Design: Tackling Complexity In The Heart Of Software by Eric Evans
 
 ### Other Projects (Animation)
  - Las Aventuras de Timmy en el Espacio (2021) - Tarberna Studio
