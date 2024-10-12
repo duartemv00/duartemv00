@@ -1,7 +1,5 @@
-# Projects
-### Profesional Videogame Projects
-- The Occultist (UE5.4) -> [Trailer](https://www.youtube.com/watch?v=cvD76zgljNY&t=1s)
-### Personal Videogame Projects
+# My Projects
+### Videogame Projects
 - Don't Hurt Me (UE5.3) -> [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
 - Moon Springs (UE5.1) -> [Itch.io](https://holychilligames.itch.io/moonsprings)
 - Huggy Toons (Unity) -> [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
@@ -13,14 +11,15 @@
  - Las Aventuras de Timmy en el Espacio (2021) - Tarberna Studio
  - [Mr Poker (2020)](https://vimeo.com/510216325) - Noname
 
-# Work Experience
-- DALOAR Studios
-- Proyecto Iris
+# Work Experience (and Professional Projects)
+### DALOAR Studios
+- The Occultist (UE5.4) -> [Trailer](https://www.youtube.com/watch?v=cvD76zgljNY&t=1s)
+### Proyecto Iris
+Lorem ipsum lorem ipsum lorem ipsum
 
 # Education
-### [Books and other Media](https://github.com/duartemv00/Library)
+### [Books, Talks, Documentaries and Podcasts](https://github.com/duartemv00/Library)
 ### Courses
-### Languages: English; Spanish; Galician
 ### Academic Studies
 
 
