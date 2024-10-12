@@ -16,6 +16,10 @@
  - Las Aventuras de Timmy en el Espacio (2021) - Tarberna Studio
  - [Mr Poker (2020)](https://vimeo.com/510216325) - Noname
 
+# Work Experience
+- DALOAR Studios
+- Proyecto Iris
+
 # Education
 ### [Books and other Media](https://github.com/duartemv00/Library)
 ### Courses
