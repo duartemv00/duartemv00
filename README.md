@@ -18,5 +18,9 @@
 
 # Education
 ### [Books and other Media](https://github.com/duartemv00/Library)
+### Courses
+### Languages: English; Spanish; Galician
+### Academic Studies
+
 
 
