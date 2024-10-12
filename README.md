@@ -1,6 +1,3 @@
-# About me
-### My name is Duarte Martínez Vizoso and I'm a Gameplay Programmer
-
 # Projects
 ### Profesional Videogame Projects
 - The Occultist (UE5.4) -> [Trailer](https://www.youtube.com/watch?v=cvD76zgljNY&t=1s)
