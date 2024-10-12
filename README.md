@@ -1,3 +1,4 @@
+Hi! I speak English, Spanish & Galician
 # My Projects
 ### Videogame Projects
 - Don't Hurt Me (UE5.3) -> [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
