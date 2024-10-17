@@ -1,6 +1,6 @@
 Hi! My name is Duarte Martínez Vizoso and I am a **Junior Gameplay Programmer**. 
 I speak English, Spanish & Galician.
-You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and through [duartemv00@gmail.com](duartemv00@gmail.com)
+You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and through duartemv00@gmail.com
 
 # Work Experience (and Professional Projects)
 ### DALOAR Studios
