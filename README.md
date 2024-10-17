@@ -18,8 +18,8 @@ I did an internship here working on various projects and developing different ro
 - [WIP] Interactable Items (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_InteractableItems_ue5Plugin)
 - [WIP] VFX Library (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_VFXLibrary_ue5Plugin)
 ### Videogame Projects
+- [2024/2022] Moon Springs (UE5.4) [Gameplay]() | [Itch.io](https://holychilligames.itch.io/moonsprings) | [GitHub](https://github.com/duartemv00/MoonSprings_Game_2024)
 - [2023] Don't Hurt Me (UE5.3) [Gameplay](https://www.youtube.com/watch?v=daRn0OVNQ6w) | [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
-- [2022] Moon Springs (UE5.1) [Gameplay]() | [Itch.io](https://holychilligames.itch.io/moonsprings)
 - [2023] Garimbas (Unity) [Itch.io](https://duarto0games.itch.io/garimbas) | [GitHub](https://github.com/duartemv00/dmv_game_unity_GrabABeer)
 - [2023] Paper, Rock & Scissors & Parry (Unity) [Trailer]() | [GitHub](https://github.com/duartemv00/game_PPTP)
 - [2022] Huggy Toons (Unity) [Gameplay](https://www.youtube.com/watch?v=E2TE6wTuznE) | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
