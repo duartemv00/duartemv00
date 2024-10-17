@@ -11,19 +11,21 @@ I did an internship here working on various projects and developing different ro
 
 # My Projects
 ### Plugin Projects
-- [WIP] Better First Person Character (UE 5.4) [GitHub](https://github.com/duartemv00/dmv_plugin_ue5.4.1_CharMetricsSystem)
+- [WIP] Better First Person Character (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_BetterFPChar_ue5Plugin)
 - [WIP] Better Third Person Character (UE 5.4) [GitHub]()
 - [WIP] Puzzle Pieces (UE 5.4) [GitHub]()
-- [WIP] Quest System (UE 5.4) [GitHub]()
-- [WIP] Interactable Items (UE 5.4) [GitHub]()
-- [WIP] VFX Library (UE 5.4) [GitHub]()
+- [WIP] Quest System (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_QuestSystem_ue5Plugin)
+- [WIP] Interactable Items (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_InteractableItems_ue5Plugin)
+- [WIP] VFX Library (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_VFXLibrary_ue5Plugin)
 ### Videogame Projects
 - [2023] Don't Hurt Me (UE5.3) [Gameplay](https://www.youtube.com/watch?v=daRn0OVNQ6w) | [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
 - [2022] Moon Springs (UE5.1) [Gameplay]() | [Itch.io](https://holychilligames.itch.io/moonsprings)
 - [2023] Garimbas (Unity) [Itch.io](https://duarto0games.itch.io/garimbas) | [GitHub](https://github.com/duartemv00/dmv_game_unity_GrabABeer)
-- [2023] Paper, Rock & Scissors & Parry (Unity) [Trailer]() | [Itch.io]() | [GitHub]()
+- [2023] Paper, Rock & Scissors & Parry (Unity) [Trailer]() | [GitHub](https://github.com/duartemv00/game_PPTP)
 - [2022] Huggy Toons (Unity) [Gameplay](https://www.youtube.com/watch?v=E2TE6wTuznE) | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
 ### Coding Projects
+- [2024] Bytecode Pattern (C++) [GitHub](https://github.com/duartemv00/DMV_BytecodePatternTest)
+- [2024] Katas (C++) [GitHub](https://github.com/duartemv00/DMV_Katas)
 ### Animation Projects
  - [2021] [Las Aventuras de Timmy en el Espacio](https://www.youtube.com/watch?v=YeMxCnga7ZU)
  - [2020] [Mr Poker](https://vimeo.com/510216325)
