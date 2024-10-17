@@ -1,8 +1,4 @@
-Hi! My name is Duarte Martínez Vizoso.
-
-I work as Gameplay Developer in DALOAR Studios.
-
-I speak English, Spanish & Galician.
+Hi! My name is Duarte Martínez Vizoso, **Junior Gameplay Programmer**. I speak English, Spanish & Galician.
 
 # Work Experience (and Professional Projects)
 ### DALOAR Studios
