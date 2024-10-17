@@ -14,7 +14,7 @@ I did an internship here working on various projects and developing different ro
 - [WIP] Puzzle Pieces (UE 5.4) [GitHub]()
 - [WIP] Quest System (UE 5.4) [GitHub]()
 - [WIP] Interactable Items (UE 5.4) [GitHub]()
-- [WIP] VFX Library (UE 5.4) [GitHub]() *Hobby*
+- [WIP] VFX Library (UE 5.4) [GitHub]()
 ### Videogame Projects
 - [2023] Don't Hurt Me (UE5.3) [Gameplay](https://www.youtube.com/watch?v=daRn0OVNQ6w) | [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
 - [2022] Moon Springs (UE5.1) [Gameplay]() | [Itch.io](https://holychilligames.itch.io/moonsprings)
