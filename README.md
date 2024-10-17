@@ -12,26 +12,30 @@ I work here as Gameplay Programmer, but also developing support task in other de
 I did an internship here working on various projects and developing different roles like Unity Programmer, 3D Modeler, Narrative Designer, etc.
 
 # My Projects
+### Plugin Projects
+- [WIP] Better First Person Character (UE 5.4) [GitHub](https://github.com/duartemv00/dmv_plugin_ue5.4.1_CharMetricsSystem)
+- [WIP] Better Third Person Character (UE 5.4) [GitHub]()
+- [WIP] Puzzle Pieces (UE 5.4) [GitHub]()
+- [WIP] Quest System (UE 5.4) [GitHub]()
+- [WIP] Interactable Items (UE 5.4) [GitHub]()
+- [WIP] VFX Library (UE 5.4) [GitHub]() *Hobby*
 ### Videogame Projects
-- [WIP] ProjectT (UE5.4)
-- [2023] Don't Hurt Me (UE5.3) [Trailer]() | [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
+- [2023] Don't Hurt Me (UE5.3) [Trailer](https://www.youtube.com/watch?v=daRn0OVNQ6w) | [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
 - [2022] Moon Springs (UE5.1) [Trailer]() | [Itch.io](https://holychilligames.itch.io/moonsprings)
 - [2023] Grab a Beer (Unity) [Trailer]() | [Itch.io](https://duarto0games.itch.io/garimbas) | [GitHub](https://github.com/duartemv00/dmv_game_unity_GrabABeer)
 - [2023] Paper, Rock & Scissors & Parry (Unity) [Trailer]() | [Itch.io]() | [GitHub]()
 - [2022] Huggy Toons (Unity) [Trailer]() | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
-### Plugin Projects
-- [2024] Better First Person Character (UE 5.4) [GitHub](https://github.com/duartemv00/dmv_plugin_ue5.4.1_CharMetricsSystem)
 ### Coding Projects
 ### Animation Projects
- - [2021] Las Aventuras de Timmy en el Espacio
+ - [2021] [Las Aventuras de Timmy en el Espacio](https://www.youtube.com/watch?v=YeMxCnga7ZU)
  - [2020] [Mr Poker](https://vimeo.com/510216325)
 
 # Education
 ### [Books, Talks, Documentaries and Podcasts](https://github.com/duartemv00/Library)
 ### Courses
-- [2024] Gameplay Ability System at Udemy (Online)
+- [2024] [Unreal Engine 5 - Gameplay Ability System - Top Down RPG](https://www.udemy.com/course/unreal-engine-5-gas-top-down-rpg/?couponCode=KEEPLEARNING) at Udemy (Online)
 ### Academic Studies
-- [2019 - 2023] Digital Creation, Animation and Videogames at the University of A Coruña (Spain)
+- [2019 - 2023] [Digital Creation, Animation and Videogames](https://comunicacion.udc.es/es/creacion_digital_animacion_y_videojuegos) at the University of A Coruña (Spain)
 
 
 
