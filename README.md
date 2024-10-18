@@ -10,12 +10,7 @@ I work here as Gameplay Programmer, but also developing support task in other de
 I did an internship here working on various projects and developing different roles like Unity Programmer, 3D Modeler, Narrative Designer, etc.
 
 # My Projects
-### Plugin Projects
-- [WIP] Better First Person Character (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_BetterFPChar_ue5Plugin)
-- [WIP] Better Third Person Character (UE 5.4)
-- [WIP] Puzzle Pieces (UE 5.4)
-- [WIP] Quest System (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_QuestSystem_ue5Plugin)
-- [WIP] Interactable Items (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_InteractableItems_ue5Plugin)
+- [WIP] Gameplay Plugin Collection for Unreal Engine [GitHub](https://github.com/duartemv00/DMV_UE_PluginCollection/tree/main)
 - [WIP] VFX Library (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_VFXLibrary_ue5Plugin)
 ### Videogame Projects
 - [2024/2022] Moon Springs (UE5.4) [Gameplay](https://www.youtube.com/watch?v=M9S4neiGdPc) | [Itch.io](https://holychilligames.itch.io/moonsprings) | [GitHub](https://github.com/duartemv00/MoonSprings_Game_2024)
