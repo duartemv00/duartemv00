@@ -2,6 +2,8 @@ Hi! My name is Duarte Martínez Vizoso and I am a **Junior Gameplay Programmer**
 I speak English, Spanish & Galician.
 You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and through duartemv00@gmail.com
 
+Right now working on: [The Occultist](https://store.steampowered.com/app/2092840/The_Occultist/)
+
 # Projects
 - [WIP] Gameplay Plugin Collection for Unreal Engine [GitHub](https://github.com/duartemv00/DMV_UE_PluginCollection/tree/main)
 - [WIP] VFX Library (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_VFXLibrary_ue5Plugin)
