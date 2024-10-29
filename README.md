@@ -13,9 +13,9 @@ You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and thro
 - [2023] Garimbas (Unity) [Gameplay](https://www.youtube.com/watch?v=6Q27CFi5ino) | [Itch.io](https://duarto0games.itch.io/garimbas) | [GitHub](https://github.com/duartemv00/dmv_game_unity_GrabABeer)
 - [2023] Paper, Rock & Scissors & Parry (Unity) [Gameplay](https://www.youtube.com/watch?v=lbSKrHfM3zM) | [GitHub](https://github.com/duartemv00/game_PPTP)
 - [2022] Huggy Toons (Unity) [Gameplay](https://www.youtube.com/watch?v=E2TE6wTuznE) | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
-### Coding Projects
+### Other Software Personal Projects
 - [2024] Bytecode Pattern (C++) [GitHub](https://github.com/duartemv00/DMV_BytecodePatternTest)
-### Animation Projects
+### Animation Personal Projects
  - [2021] [Las Aventuras de Timmy en el Espacio](https://www.youtube.com/watch?v=YeMxCnga7ZU)
  - [2020] [Mr Poker](https://vimeo.com/510216325)
 
