@@ -11,7 +11,7 @@ You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and thro
 - [2023] Don't Hurt Me (UE5.3) [Gameplay](https://www.youtube.com/watch?v=6rOU-gK49ow) | [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
 - [2022] Moon Springs (UE5.4) [Gameplay](https://www.youtube.com/watch?v=M9S4neiGdPc) | [Itch.io](https://holychilligames.itch.io/moonsprings) | [GitHub](https://github.com/duartemv00/Game_MoonSprings_2022)
 - [2023] Grab a Beer (Unity) [Gameplay](https://www.youtube.com/watch?v=6Q27CFi5ino) | [Itch.io](https://duarto0games.itch.io/garimbas) | [GitHub](https://github.com/duartemv00/dmv_game_unity_GrabABeer)
-- [2023] Paper, Rock & Scissors & Parry (Unity) [Gameplay](https://www.youtube.com/watch?v=lbSKrHfM3zM) | [GitHub](https://github.com/duartemv00/game_PPTP)
+- [2023] Paper, Rock & Scissors & Parry (Unity) [Gameplay](https://www.youtube.com/watch?v=lbSKrHfM3zM) | [GitHub](https://github.com/duartemv00/DMV_RPSP_UnityGame)
 - [2022] Huggy Toons (Unity) [Gameplay](https://www.youtube.com/watch?v=E2TE6wTuznE) | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
 ### Other Software Personal Projects
 - [2024] Bytecode Pattern (C++) [GitHub](https://github.com/duartemv00/DMV_BytecodePatternTest)
