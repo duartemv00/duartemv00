@@ -15,6 +15,7 @@ You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and thro
 - [2022] Huggy Toons (Unity) [Gameplay](https://www.youtube.com/watch?v=E2TE6wTuznE) | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
 ### Other Software Personal Projects
 - [2024] Bytecode Pattern (C++) [GitHub](https://github.com/duartemv00/DMV_BytecodePatternTest)
+- [2023] Web Portfolio [GitHub](https://github.com/duartemv00/DMV_webPortfolio)
 ### Animation Personal Projects
  - [2021] [Las Aventuras de Timmy en el Espacio](https://www.youtube.com/watch?v=YeMxCnga7ZU)
  - [2020] [Mr Poker](https://vimeo.com/510216325)
