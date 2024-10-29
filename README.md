@@ -5,7 +5,7 @@ You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and thro
 # Projects
 - [WIP] Gameplay Plugin Collection for Unreal Engine [GitHub](https://github.com/duartemv00/DMV_UE_PluginCollection/tree/main)
 - [WIP] VFX Library (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_VFXLibrary_ue5Plugin)
-### Videogame Proffesional Projects
+### Videogame Professional Projects
 - [WIP] The Occultist (UE 5.4) [Trailer](https://www.youtube.com/watch?v=cvD76zgljNY&t=1s) | [Steam](https://store.steampowered.com/app/2092840/The_Occultist/)
 ### Videogame Personal Projects
 - [2024/2022] Moon Springs (UE5.4) [Gameplay](https://www.youtube.com/watch?v=M9S4neiGdPc) | [Itch.io](https://holychilligames.itch.io/moonsprings) | [GitHub](https://github.com/duartemv00/MoonSprings_Game_2024)
