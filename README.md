@@ -20,17 +20,8 @@ I did an internship here working on various projects and developing different ro
 - [2022] Huggy Toons (Unity) [Gameplay](https://www.youtube.com/watch?v=E2TE6wTuznE) | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
 ### Coding Projects
 - [2024] Bytecode Pattern (C++) [GitHub](https://github.com/duartemv00/DMV_BytecodePatternTest)
-- [2024] Katas (C++) [GitHub](https://github.com/duartemv00/DMV_Katas)
 ### Animation Projects
  - [2021] [Las Aventuras de Timmy en el Espacio](https://www.youtube.com/watch?v=YeMxCnga7ZU)
  - [2020] [Mr Poker](https://vimeo.com/510216325)
-
-# Education
-### [Books, Talks, Documentaries and Podcasts](https://github.com/duartemv00/Library)
-### Courses
-- [2024] [Unreal Engine 5 - Gameplay Ability System - Top Down RPG](https://www.udemy.com/course/unreal-engine-5-gas-top-down-rpg/?couponCode=KEEPLEARNING) at Udemy (Online)
-### Academic Studies
-- [2019 - 2023] [Digital Creation, Animation and Videogames](https://comunicacion.udc.es/es/creacion_digital_animacion_y_videojuegos) at the University of A Coruña (Spain)
-
 
 
