@@ -2,17 +2,12 @@ Hi! My name is Duarte Martínez Vizoso and I am a **Junior Gameplay Programmer**
 I speak English, Spanish & Galician.
 You can contact me in [Linkedin](https://www.linkedin.com/in/duartemv/) and through duartemv00@gmail.com
 
-# Work Experience (and Professional Projects)
-### DALOAR Studios
-I work here as Gameplay Programmer, but also developing support task in other departments like rigging, animation and modeling.
-- [WIP] The Occultist (UE 5.4) [Trailer](https://www.youtube.com/watch?v=cvD76zgljNY&t=1s) | [Steam](https://store.steampowered.com/app/2092840/The_Occultist/)
-### Proyecto Iris
-I did an internship here working on various projects and developing different roles like Unity Programmer, 3D Modeler, Narrative Designer, etc.
-
-# My Projects
+# Projects
 - [WIP] Gameplay Plugin Collection for Unreal Engine [GitHub](https://github.com/duartemv00/DMV_UE_PluginCollection/tree/main)
 - [WIP] VFX Library (UE 5.4) [GitHub](https://github.com/duartemv00/DMV_VFXLibrary_ue5Plugin)
-### Videogame Projects
+### Videogame Proffesional Projects
+- [WIP] The Occultist (UE 5.4) [Trailer](https://www.youtube.com/watch?v=cvD76zgljNY&t=1s) | [Steam](https://store.steampowered.com/app/2092840/The_Occultist/)
+### Videogame Personal Projects
 - [2024/2022] Moon Springs (UE5.4) [Gameplay](https://www.youtube.com/watch?v=M9S4neiGdPc) | [Itch.io](https://holychilligames.itch.io/moonsprings) | [GitHub](https://github.com/duartemv00/MoonSprings_Game_2024)
 - [2023] Don't Hurt Me (UE5.3) [Gameplay](https://www.youtube.com/watch?v=6rOU-gK49ow) | [Itch.io](https://duarto0games.itch.io/dont-hurt-me)
 - [2023] Garimbas (Unity) [Gameplay](https://www.youtube.com/watch?v=6Q27CFi5ino) | [Itch.io](https://duarto0games.itch.io/garimbas) | [GitHub](https://github.com/duartemv00/dmv_game_unity_GrabABeer)
