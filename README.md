@@ -16,6 +16,7 @@ Right now working on: [The Occultist](https://store.steampowered.com/app/2092840
 - [2023] Paper, Rock & Scissors & Parry (Unity) [Gameplay](https://www.youtube.com/watch?v=lbSKrHfM3zM) | [GitHub](https://github.com/duartemv00/DMV_RPSP_UnityGame)
 - [2022] Huggy Toons (Unity) [Gameplay](https://www.youtube.com/watch?v=E2TE6wTuznE) | [Itch.io](https://koffigamestudio.itch.io/the-good-neighborino)
 ### Other Personal Software Projects
+- [WIP] Unreal Engine Automation Tools Library (Python) [GitHub](https://github.com/duartemv00/DMV_ueTools)
 - [2024] Bytecode Pattern (C++) [GitHub](https://github.com/duartemv00/DMV_BytecodePatternTest)
 - [2023] Web Portfolio [GitHub](https://github.com/duartemv00/DMV_webPortfolio)
 ### Animation Personal Projects
