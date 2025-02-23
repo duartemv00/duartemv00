@@ -16,5 +16,8 @@ Unreal Engine Plugins [C++]
 - [BetterFPChar](https://github.com/duartemv00/DMV_BetterFPChar_uePlugin)
 - [Flashlight Component](https://github.com/duartemv00/DMV_FlashLightComp_uePlugin)
 
+Data Science [Python]
+- [Music Recomendation Algorithm](https://github.com/duartemv00/DMV_MusicRecomendationAlgorithm)
+
 ### OTHER
 - [Pixar Kitchen Lighting Unreal Engine](https://www.youtube.com/watch?v=uu5SuF7_eDM)
