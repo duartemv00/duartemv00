@@ -9,6 +9,7 @@ Videogames:
 ### MY TOP REPOSITORIES
 C++:
 - [Codeforces problems](https://github.com/duartemv00/DMV_codeforces_cpp)
+- [Study of <regex> uses](https://github.com/duartemv00/CPPRegrexPossibilities)
 - [Bytecode Pattern Test](https://github.com/duartemv00/DMV_BytecodePatternTest_cpp)
 
 Unreal Engine Plugins [C++]
