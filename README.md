@@ -7,7 +7,7 @@ Videogames:
 - [Moonsprings](https://www.youtube.com/watch?v=M9S4neiGdPc)
 
 ## MY TOP REPOSITORIES
-- [All about C++]([https://github.com/duartemv00/AllAboutCP](https://github.com/duartemv00/AllAboutCPP))
+- [All about C++](https://github.com/duartemv00/AllAboutCPP)
 - [Music Recomendation Algorithm](https://github.com/duartemv00/DMV_MusicRecomendationAlgorithm)
 
 Unreal Engine
