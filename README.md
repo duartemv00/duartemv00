@@ -7,7 +7,7 @@ Videogames:
 - [Moonsprings](https://www.youtube.com/watch?v=M9S4neiGdPc)
 
 ## COOLEST REPOSITORIES
-Learning and Personal Documentation
+Personal Learning and Documentation
 - [All about C++](https://github.com/duartemv00/AllAboutCPP)
 
 Unreal Engine
@@ -16,5 +16,5 @@ Unreal Engine
 - [Flashlight Component Plugin](https://github.com/duartemv00/DMV_FlashLightComp_uePlugin)
 - [Pixar Kitchen Lighting](https://www.youtube.com/watch?v=uu5SuF7_eDM)
 
-Data Science projects
+Data Science
 - [Music Recomendation Algorithm](https://github.com/duartemv00/DMV_MusicRecomendationAlgorithm)
