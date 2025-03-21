@@ -1,4 +1,4 @@
-### LATEST PROJECTS
+## LATEST PROJECTS
 Videogames:
 - [The Occultist](https://store.steampowered.com/app/2092840/The_Occultist/)
 - [Don't Hurt Me](https://www.youtube.com/watch?v=daRn0OVNQ6w)
@@ -6,9 +6,8 @@ Videogames:
 - [Grab a Beer](https://www.youtube.com/watch?v=6Q27CFi5ino)
 - [Moonsprings](https://www.youtube.com/watch?v=M9S4neiGdPc)
 
-### MY TOP REPOSITORIES
+## MY TOP REPOSITORIES
 - [All about C++](https://github.com/duartemv00/AllAboutCP)
-
 - [Music Recomendation Algorithm](https://github.com/duartemv00/DMV_MusicRecomendationAlgorithm)
 
 Unreal Engine
