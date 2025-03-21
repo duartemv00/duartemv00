@@ -7,18 +7,12 @@ Videogames:
 - [Moonsprings](https://www.youtube.com/watch?v=M9S4neiGdPc)
 
 ### MY TOP REPOSITORIES
-C++:
-- [Codeforces problems](https://github.com/duartemv00/DMV_codeforces_cpp)
-- [Study of regex uses](https://github.com/duartemv00/CPPRegrexPossibilities)
-- [Bytecode Pattern Test](https://github.com/duartemv00/DMV_BytecodePatternTest_cpp)
+- [All about C++](https://github.com/duartemv00/AllAboutCP)
 
-Unreal Engine Plugins [C++]
-- [Levitation Component](https://github.com/duartemv00/DMV_Levitation_uePlugin)
-- [BetterFPChar](https://github.com/duartemv00/DMV_BetterFPChar_uePlugin)
-- [Flashlight Component](https://github.com/duartemv00/DMV_FlashLightComp_uePlugin)
-
-Data Science [Python]
 - [Music Recomendation Algorithm](https://github.com/duartemv00/DMV_MusicRecomendationAlgorithm)
 
-### OTHER
-- [Pixar Kitchen Lighting Unreal Engine](https://www.youtube.com/watch?v=uu5SuF7_eDM)
+Unreal Engine
+- [Levitation Component Plugin](https://github.com/duartemv00/DMV_Levitation_uePlugin)
+- [BetterFPChar Plugin](https://github.com/duartemv00/DMV_BetterFPChar_uePlugin)
+- [Flashlight Component Plugin](https://github.com/duartemv00/DMV_FlashLightComp_uePlugin)
+- [Pixar Kitchen Lighting](https://www.youtube.com/watch?v=uu5SuF7_eDM)
