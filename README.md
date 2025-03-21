@@ -7,11 +7,14 @@ Videogames:
 - [Moonsprings](https://www.youtube.com/watch?v=M9S4neiGdPc)
 
 ## MY TOP REPOSITORIES
+Learning and Personal Documentation
 - [All about C++](https://github.com/duartemv00/AllAboutCPP)
-- [Music Recomendation Algorithm](https://github.com/duartemv00/DMV_MusicRecomendationAlgorithm)
 
 Unreal Engine
 - [Levitation Component Plugin](https://github.com/duartemv00/DMV_Levitation_uePlugin)
 - [BetterFPChar Plugin](https://github.com/duartemv00/DMV_BetterFPChar_uePlugin)
 - [Flashlight Component Plugin](https://github.com/duartemv00/DMV_FlashLightComp_uePlugin)
 - [Pixar Kitchen Lighting](https://www.youtube.com/watch?v=uu5SuF7_eDM)
+
+Data Science projects
+- [Music Recomendation Algorithm](https://github.com/duartemv00/DMV_MusicRecomendationAlgorithm)
