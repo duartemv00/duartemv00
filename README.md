@@ -9,6 +9,7 @@ Videogames:
 ## COOLEST REPOSITORIES
 Personal Learning and Documentation
 - [All about C++](https://github.com/duartemv00/AllAboutCPP)
+- [All about Python](https://github.com/duartemv00/AllAboutPy)
 
 Unreal Engine
 - [Levitation Component Plugin](https://github.com/duartemv00/DMV_Levitation_uePlugin)
