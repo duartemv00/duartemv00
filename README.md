@@ -7,10 +7,6 @@ Videogames:
 - [Moonsprings](https://www.youtube.com/watch?v=M9S4neiGdPc)
 
 ## COOLEST REPOSITORIES
-Personal Learning and Documentation
-- [All about C++](https://github.com/duartemv00/AllAboutCPP)
-- [All about Python](https://github.com/duartemv00/AllAboutPy)
-
 Unreal Engine
 - [Levitation Component Plugin](https://github.com/duartemv00/DMV_Levitation_uePlugin)
 - [BetterFPChar Plugin](https://github.com/duartemv00/DMV_BetterFPChar_uePlugin)
